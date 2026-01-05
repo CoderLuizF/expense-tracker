@@ -1,2 +1,24 @@
-# expense-tracker
-Expense Tracker App using the MERN (MongoDB, Express, React, Node.js) stack! This app includes user authentication with JWT, income and expense tracking, interactive charts, and the ability to export data in Excel format.
+# Expense Tracker (MERN)
+
+Full Stack application for personal expense tracking, built with the MERN stack (MongoDB, Express, React and Node.js).
+
+## 🚀 Features
+- User authentication (JWT)
+- Expense and income management
+- Expense categories
+- Date-based filtering
+- Financial summary
+
+## 🛠️ Tech Stack
+### Backend
+- Node.js
+- Express
+- MongoDB + Mongoose
+- JWT
+- Bcrypt
+
+### Frontend
+- React
+- Vite
+- Axios
+- React Router
